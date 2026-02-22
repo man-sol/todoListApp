@@ -53,7 +53,7 @@ Tasks are rendered dynamically using:
  1 Clone the Repository
 
 
-git clone https://github.com/man-sol/todoListApp
+go to link https://github.com/man-sol/todoListApp.git
 
 2 Navigate to Project Folder
 
