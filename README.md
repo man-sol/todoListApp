@@ -46,8 +46,7 @@ State and functions are passed from App → ToDoList → ToDoItem.
 ### 4 List Rendering
 Tasks are rendered dynamically using:
 
-```js
-todos.map()
+
 
 ##  Instructions on how to run the application
 
